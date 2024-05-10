@@ -117,6 +117,8 @@ $ forge test -C ./src/Capture_the_Ether/Warmup/Deploy_a_contract -vvv
 - **Good Samaritan**: [代码](./src/Ethernaut/Good_Samaritan/GoodSamaritan.t.sol) |  [文章](./src/Ethernaut/Good_Samaritan/README.md)
 - **Gatekeeper Three**: [代码](./src/Ethernaut/Gatekeeper_Three/GatekeeperThree.t.sol) |  [文章](./src/Ethernaut/Gatekeeper_Three/README.md)
 - **Switch**: [代码](./src/Ethernaut/Switch/Switch.t.sol) | [文章](./src/Ethernaut/Switch/README.md)
+- **HigherOrder**:[代码](./src/Ethernaut/HigherOrder/HigherOrder.t.sol) | [文章](./src/Ethernaut/HigherOrder/README.md)
+- **Stake**: [代码](./src/Ethernaut/Stake/Stake.t.sol) | [文章](./src/Ethernaut/Stake/README.md)
 
 ## 参考
 
