@@ -119,6 +119,8 @@ $ forge test -C ./src/Capture_the_Ether/Warmup/Deploy_a_contract -vvv
 - **Switch**: [代码](./src/Ethernaut/Switch/Switch.t.sol) | [文章](./src/Ethernaut/Switch/README.md)
 - **HigherOrder**:[代码](./src/Ethernaut/HigherOrder/HigherOrder.t.sol) | [文章](./src/Ethernaut/HigherOrder/README.md)
 - **Stake**: [代码](./src/Ethernaut/Stake/Stake.t.sol) | [文章](./src/Ethernaut/Stake/README.md)
+- **Impersonator**: [代码](./src/Ethernaut/Impersonator/Impersonator.t.sol) | [文章](./src/Ethernaut/Impersonator/Readme.md)
+- **Magic Animal Carousel**: [代码](./src/Ethernaut/MagicAnimalCarousel/MagicAnimalCarousel.t.sol) | [文章](./src/Ethernaut/MagicAnimalCarousel/Readme.md)
 
 ## 参考
 
